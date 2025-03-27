@@ -1,0 +1,28 @@
+
+React is a library 
+
+CRA- Create React App : whole bundle at once 
+Vite -- French Meaning Fast : As per the request the file are transfered
+
+HMR(Hot Module Replacement)
+HTML + JS = JSX
+
+As the browser cannot understand the HTML,CSS & JS only show files are required in these file type
+
+<div className='thisisdiv'>
+<h1>Hello World </h1>
+</div>
+
+jsxDEv("div",{className:"thisisdiv"},
+("h1",null,"Hello World")
+);
+
+To Run the vite in terminal is: npm run dev
+
+rafce is short hand for creating the react arrow function export component
+
+Install Prop-types: npm i prop-types
+This functions are showWhat unused after the version upgrade Even, .defaultprops is unabel to use 
+
+Instsll Reac Router DOM: npm i react-roter-dom
+    For the routing purpose this package needs to be install in React 
