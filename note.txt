@@ -26,3 +26,13 @@ This functions are showWhat unused after the version upgrade Even, .defaultprops
 
 Instsll Reac Router DOM: npm i react-roter-dom
     For the routing purpose this package needs to be install in React 
+-------------------------------------------------------------------------------------
+Recent deployed way of routing : 
+Create a file routes and import createBrowserRouter and export 
+Import that file in app.jsx 
+TO see the result: Uncomment the 14th line in the code at working file app.jsx  
+--------------------------------------------------------------------------------------
+There are different Hooks in REACTJS like: useState,useEffect,useReducer,and many more 
+The file needs to be imported in App.jsx: import { useState } from 'react'
+useState is used to store and update of data.
+
